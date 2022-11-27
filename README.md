@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/LakshanWMRT](https://github.com/LakshanWMRT)
 
-- 💬 Ask me about **Linux**
+- 💬 Ask me about **Linux and Android**
 
 - 📫 How to reach me **randika46official@gmail.com**
 
